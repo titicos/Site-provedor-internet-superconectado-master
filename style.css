@@ -127,7 +127,11 @@ main{
     padding: 20px;
 
 }
-
+.central{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .background{
     width: 60%;
     margin-left: 20%;
